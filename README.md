@@ -103,4 +103,4 @@ Agradecimentos [Rocketseat](https://rocketseat.com.br/)
 
 👤 **Matheus Souza Monteiro**
 * Github: [@Mat20](https://github.com/Mat20)
-* Linkedin: [@](https://www.linkedin.com/in/matheus-souza-0108012142/)
+* Linkedin: [@Mat20](https://www.linkedin.com/in/matheus-souza-0108012142/)
